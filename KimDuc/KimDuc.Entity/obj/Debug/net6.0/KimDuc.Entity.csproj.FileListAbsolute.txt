@@ -1,0 +1,12 @@
+D:\C#\KimDuc\KimDuc.Entity\bin\Debug\net6.0\KimDuc.Entity.deps.json
+D:\C#\KimDuc\KimDuc.Entity\bin\Debug\net6.0\KimDuc.Entity.dll
+D:\C#\KimDuc\KimDuc.Entity\bin\Debug\net6.0\KimDuc.Entity.pdb
+D:\C#\KimDuc\KimDuc.Entity\obj\Debug\net6.0\KimDuc.Entity.csproj.AssemblyReference.cache
+D:\C#\KimDuc\KimDuc.Entity\obj\Debug\net6.0\KimDuc.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\KimDuc\KimDuc.Entity\obj\Debug\net6.0\KimDuc.Entity.AssemblyInfoInputs.cache
+D:\C#\KimDuc\KimDuc.Entity\obj\Debug\net6.0\KimDuc.Entity.AssemblyInfo.cs
+D:\C#\KimDuc\KimDuc.Entity\obj\Debug\net6.0\KimDuc.Entity.csproj.CoreCompileInputs.cache
+D:\C#\KimDuc\KimDuc.Entity\obj\Debug\net6.0\KimDuc.Entity.dll
+D:\C#\KimDuc\KimDuc.Entity\obj\Debug\net6.0\refint\KimDuc.Entity.dll
+D:\C#\KimDuc\KimDuc.Entity\obj\Debug\net6.0\KimDuc.Entity.pdb
+D:\C#\KimDuc\KimDuc.Entity\obj\Debug\net6.0\ref\KimDuc.Entity.dll

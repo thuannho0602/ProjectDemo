@@ -1,0 +1,12 @@
+D:\C#\KimDuc\KimDuc.Model\bin\Debug\net6.0\KimDuc.Model.deps.json
+D:\C#\KimDuc\KimDuc.Model\bin\Debug\net6.0\KimDuc.Model.dll
+D:\C#\KimDuc\KimDuc.Model\bin\Debug\net6.0\KimDuc.Model.pdb
+D:\C#\KimDuc\KimDuc.Model\obj\Debug\net6.0\KimDuc.Model.csproj.AssemblyReference.cache
+D:\C#\KimDuc\KimDuc.Model\obj\Debug\net6.0\KimDuc.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\KimDuc\KimDuc.Model\obj\Debug\net6.0\KimDuc.Model.AssemblyInfoInputs.cache
+D:\C#\KimDuc\KimDuc.Model\obj\Debug\net6.0\KimDuc.Model.AssemblyInfo.cs
+D:\C#\KimDuc\KimDuc.Model\obj\Debug\net6.0\KimDuc.Model.csproj.CoreCompileInputs.cache
+D:\C#\KimDuc\KimDuc.Model\obj\Debug\net6.0\KimDuc.Model.dll
+D:\C#\KimDuc\KimDuc.Model\obj\Debug\net6.0\refint\KimDuc.Model.dll
+D:\C#\KimDuc\KimDuc.Model\obj\Debug\net6.0\KimDuc.Model.pdb
+D:\C#\KimDuc\KimDuc.Model\obj\Debug\net6.0\ref\KimDuc.Model.dll

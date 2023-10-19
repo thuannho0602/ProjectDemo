@@ -1,0 +1,15 @@
+D:\C#\KimDuc\KimDuc.DataAccess\bin\Debug\net6.0\KimDuc.DataAccess.deps.json
+D:\C#\KimDuc\KimDuc.DataAccess\bin\Debug\net6.0\KimDuc.DataAccess.dll
+D:\C#\KimDuc\KimDuc.DataAccess\bin\Debug\net6.0\KimDuc.DataAccess.pdb
+D:\C#\KimDuc\KimDuc.DataAccess\bin\Debug\net6.0\KimDuc.Entity.dll
+D:\C#\KimDuc\KimDuc.DataAccess\bin\Debug\net6.0\KimDuc.Entity.pdb
+D:\C#\KimDuc\KimDuc.DataAccess\obj\Debug\net6.0\KimDuc.DataAccess.csproj.AssemblyReference.cache
+D:\C#\KimDuc\KimDuc.DataAccess\obj\Debug\net6.0\KimDuc.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\KimDuc\KimDuc.DataAccess\obj\Debug\net6.0\KimDuc.DataAccess.AssemblyInfoInputs.cache
+D:\C#\KimDuc\KimDuc.DataAccess\obj\Debug\net6.0\KimDuc.DataAccess.AssemblyInfo.cs
+D:\C#\KimDuc\KimDuc.DataAccess\obj\Debug\net6.0\KimDuc.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\KimDuc\KimDuc.DataAccess\obj\Debug\net6.0\KimDuc.DataAccess.csproj.CopyComplete
+D:\C#\KimDuc\KimDuc.DataAccess\obj\Debug\net6.0\KimDuc.DataAccess.dll
+D:\C#\KimDuc\KimDuc.DataAccess\obj\Debug\net6.0\refint\KimDuc.DataAccess.dll
+D:\C#\KimDuc\KimDuc.DataAccess\obj\Debug\net6.0\KimDuc.DataAccess.pdb
+D:\C#\KimDuc\KimDuc.DataAccess\obj\Debug\net6.0\ref\KimDuc.DataAccess.dll
